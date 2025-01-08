@@ -45,5 +45,5 @@ export const turnoComputadora = (
     } else {
       alert("Computadora Gana");
     }
-  }, 100);
+  }, 500);
 };
